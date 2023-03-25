@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "knerdtime",
+  "name": "knerdtime",
+  "authors": ["Zer0Cool"],
+  "description": "This is a Content Mod intended to make the time it takes to complete certain activities bearable, while 2 hour days are in effect for Knerd Story",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.17.11"
+  }
+}

@@ -1,0 +1,38 @@
+[
+	{
+		"file": "game:blocktypes/wood/pitkiln",
+		"op": "replace",
+		"path": "/attributes/buildMats/fuel/0/burnTimeHours",
+		"value": 10
+	},
+	{
+		"file": "game:blocktypes/wood/pitkiln",
+		"op": "replace",
+		"path": "/attributes/buildMats/fuel/1/burnTimeHours",
+		"value": 8
+	},
+	{
+		"file": "game:blocktypes/wood/pitkiln",
+		"op": "replace",
+		"path": "/attributes/buildMats/fuel/2/burnTimeHours",
+		"value": 5
+	},
+	{
+		"file": "game:blocktypes/wood/pitkiln",
+		"op": "replace",
+		"path": "/attributes/buildMats/fuel/3/burnTimeHours",
+		"value": 5
+	},
+	{
+		"file": "game:blocktypes/wood/pitkiln",
+		"op": "replace",
+		"path": "/attributes/buildMats/fuel/4/burnTimeHours",
+		"value": 7
+	},
+	{
+		"file": "game:blocktypes/wood/pitkiln",
+		"op": "replace",
+		"path": "/attributes/buildMats/fuel/5/burnTimeHours",
+		"value": 6
+	}
+]

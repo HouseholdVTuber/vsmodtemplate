@@ -1,0 +1,8 @@
+[
+	{
+		"file": "medievalexpansion:itemtypes/part/waterwheelspin",
+		"op": "replace",
+		"path": "/durabilityByType/*",
+		"value": 12000
+	}
+]

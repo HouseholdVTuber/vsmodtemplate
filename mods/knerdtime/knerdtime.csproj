@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="assets\knerdtime\patches\fasterPitKilns.json" />
+    <None Include="assets\knerdtime\patches\strongerWaterwheels.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

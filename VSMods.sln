@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSModLauncher", "VSModLauncher.csproj", "{203DFBF1-3599-43FD-8487-E1C79C2B788F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0e2065a7-6955-4b6f-b3b1-34f6d428d1c4} = {0e2065a7-6955-4b6f-b3b1-34f6d428d1c4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knerdtime", "mods\knerdtime\knerdtime.csproj", "{0e2065a7-6955-4b6f-b3b1-34f6d428d1c4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +22,12 @@ Global
 		{203DFBF1-3599-43FD-8487-E1C79C2B788F}.Release x64|Any CPU.Build.0 = Release|Any CPU
 		{203DFBF1-3599-43FD-8487-E1C79C2B788F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{203DFBF1-3599-43FD-8487-E1C79C2B788F}.Release|Any CPU.Build.0 = Release|Any CPU
+{0e2065a7-6955-4b6f-b3b1-34f6d428d1c4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+{0e2065a7-6955-4b6f-b3b1-34f6d428d1c4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+{0e2065a7-6955-4b6f-b3b1-34f6d428d1c4}.Release x64|Any CPU.ActiveCfg = Release|Any CPU
+{0e2065a7-6955-4b6f-b3b1-34f6d428d1c4}.Release x64|Any CPU.Build.0 = Release|Any CPU
+{0e2065a7-6955-4b6f-b3b1-34f6d428d1c4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+{0e2065a7-6955-4b6f-b3b1-34f6d428d1c4}.Release|Any CPU.Build.0 = Release|Any CPU}
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
